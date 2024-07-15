@@ -420,6 +420,13 @@ article .icon {
   height: 2.5rem;
 }
 
+#typed-output {
+  font-size: 24px;
+  font-family: 'Courier New', Courier, monospace;
+  color: #333;
+}
+
+
 /* FOOTER SECTION */
 
 footer {
