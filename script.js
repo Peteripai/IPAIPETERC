@@ -9,8 +9,8 @@ function toggleMenu() {
     var typed = new Typed('#typed-output', {
       strings: ["I AM a Web Developer,Web designer and a Technology Enthusiast",],
       typeSpeed: 60,
-      backSpeed: 30,
-      loop: true
+      backSpeed: 60,
+      loop: false
     });
   });
   
