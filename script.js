@@ -7,7 +7,7 @@ function toggleMenu() {
 
   document.addEventListener('DOMContentLoaded', function() {
     var typed = new Typed('#typed-output', {
-      strings: ["I AM a Web Developer,Web designer and a Technology Enthusiast",],
+      strings: ["I AM a currently a Web Developer and Web designer",],
       typeSpeed: 60,
       backSpeed: 60,
       loop: false
